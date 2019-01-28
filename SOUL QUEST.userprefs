@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\pausemenu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\pausemenu.cs" Line="24" Column="71" />
+      <File FileName="Assets\Scripts\MovingObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\trap.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\follwing.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Canvas\DialogueManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Canvas\main.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\playerAttack.cs" Line="2" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\WalkingEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\levelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Canvas\mainmenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Canvas\ColorButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ava.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\next.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FinalAva.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\nextmountain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\checkpoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Boss.cs" Line="1" Column="1" />
+      <File FileName="Assets\entertemple.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Mainplayer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
